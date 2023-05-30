@@ -11,15 +11,12 @@ Before running the project, make sure you have completed the following steps:
 
 
 1 - Update the application.properties file:
-
-                - Replace the placeholder <YOUR_MONGO_ATLAS_URI> with your own MongoDB Atlas URI. This URI will be used to establish a connection with the MongoDB database.
-                
+        - Replace the placeholder <YOUR_MONGO_ATLAS_URI> with your own MongoDB Atlas URI. This URI will be used to establish a connection with the MongoDB database.
 2 - Build the project with Maven: 
-
-                - Navigate to the project directory and Open a terminal or command prompt.
-                - Execute the following command to build the project: 
+        - Navigate to the project directory and Open a terminal or command prompt.
+        - Execute the following command to build the project: 
                 
-                  - mvn clean install -DskipTests.
+                  mvn clean install -DskipTests.
         
 ==> The application will start running on PORT = 2023
 API Endpoints
