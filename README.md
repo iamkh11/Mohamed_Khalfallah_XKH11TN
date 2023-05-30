@@ -17,9 +17,11 @@ Before running the project, make sure you have completed the following steps:
 * Navigate to the project directory and Open a terminal or command prompt.
 * Execute the following command to build the project: 
                 
-                  mvn clean install -DskipTests.
+                  mvn clean install -DskipTests
         
 ==> The application will start running on PORT = 2023
+
+
 API Endpoints
 
 The following are the API endpoints provided by this project:
