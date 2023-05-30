@@ -2,7 +2,7 @@
 
 Java Spring Test
 
-This is a Spring Data Mongo project that provides a RESTful API for managing and retrieving data related to students (etudiants). 
+This is a Spring Data Mongo project (Junit Tests included) that provides a RESTful API for managing and retrieving data related to students (etudiants). 
 The project is secured with JSON Web Tokens (JWT) for authentication and authorization purposes.
 
 Prerequisites
